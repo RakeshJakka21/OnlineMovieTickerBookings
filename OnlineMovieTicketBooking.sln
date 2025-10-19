@@ -1,0 +1,65 @@
+<<<<<<< HEAD
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMovieTicketBooking.API", "OnlineMovieTicketBooking.API\OnlineMovieTicketBooking.API.csproj", "{9B0AEC6A-4CE7-4A45-847E-B51BE19EDFAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMovieTicketBooking.Tests", "OnlineMovieTicketBooking.Tests\OnlineMovieTicketBooking.Tests.csproj", "{2CAFA6D8-53D6-4AB1-87FA-2F8E095DB783}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B0AEC6A-4CE7-4A45-847E-B51BE19EDFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0AEC6A-4CE7-4A45-847E-B51BE19EDFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0AEC6A-4CE7-4A45-847E-B51BE19EDFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0AEC6A-4CE7-4A45-847E-B51BE19EDFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CAFA6D8-53D6-4AB1-87FA-2F8E095DB783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CAFA6D8-53D6-4AB1-87FA-2F8E095DB783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CAFA6D8-53D6-4AB1-87FA-2F8E095DB783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CAFA6D8-53D6-4AB1-87FA-2F8E095DB783}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39DFBDA4-DDDD-4A44-9EF0-DF56A266224F}
+	EndGlobalSection
+EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMovieTicketBooking.API", "OnlineMovieTicketBooking.API\OnlineMovieTicketBooking.API.csproj", "{9B0AEC6A-4CE7-4A45-847E-B51BE19EDFAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMovieTicketBooking.Tests", "OnlineMovieTicketBooking.Tests\OnlineMovieTicketBooking.Tests.csproj", "{2CAFA6D8-53D6-4AB1-87FA-2F8E095DB783}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B0AEC6A-4CE7-4A45-847E-B51BE19EDFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0AEC6A-4CE7-4A45-847E-B51BE19EDFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0AEC6A-4CE7-4A45-847E-B51BE19EDFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0AEC6A-4CE7-4A45-847E-B51BE19EDFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CAFA6D8-53D6-4AB1-87FA-2F8E095DB783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CAFA6D8-53D6-4AB1-87FA-2F8E095DB783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CAFA6D8-53D6-4AB1-87FA-2F8E095DB783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CAFA6D8-53D6-4AB1-87FA-2F8E095DB783}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39DFBDA4-DDDD-4A44-9EF0-DF56A266224F}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 90f37d29e29c2822ca36401f592b3c29bf0b98cf
